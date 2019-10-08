@@ -18,6 +18,6 @@ open your cmd and type as below:
 # 4. check the graph in tensorboard
 - tensorboard --logdir=./logdir --host=localhost --port=8088
 
-(base) C:\Users\vanbinhd>cd Documents\GitHub\CNN_MNIST_Digit_Classifier
-(base) C:\Users\vanbinhd\Documents\GitHub\CNN_MNIST_Digit_Classifier>tensorboard --logdir=./logdir --host=localhost --port=8088
+>(base) C:\Users\vanbinhd>cd Documents\GitHub\CNN_MNIST_Digit_Classifier
+>(base) C:\Users\vanbinhd\Documents\GitHub\CNN_MNIST_Digit_Classifier>tensorboard --logdir=./logdir --host=localhost --port=8088
 TensorBoard 1.14.0 at http://localhost:8088/ (Press CTRL+C to quit)
