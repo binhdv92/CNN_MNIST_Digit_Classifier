@@ -1,0 +1,4 @@
+model_checkpoint_path: "model_checkpoint_final"
+all_model_checkpoint_paths: "model_checkpoint_0"
+all_model_checkpoint_paths: "model_checkpoint_500"
+all_model_checkpoint_paths: "model_checkpoint_final"
